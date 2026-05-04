@@ -1,3 +1,4 @@
+
 #Anzahl Dreiecke
 t = int(input())
 
